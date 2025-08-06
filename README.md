@@ -2,7 +2,7 @@
 Projeto de modelagem estrela com tabelas dimensionais e fato para análise de dados educacionais.
 
 
-# Este projeto demonstra a construção de um Data Warehouse simples com SQLAlchemy e PostgreSQL, utilizando o modelo dimensional estrela para armazenar dados de desempenho de estudantes.
+### Este projeto demonstra a construção de um Data Warehouse simples com SQLAlchemy e PostgreSQL, utilizando o modelo dimensional estrela para armazenar dados de desempenho de estudantes.
 
 ## 📌 Objetivo
 
